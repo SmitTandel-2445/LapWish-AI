@@ -1,0 +1,1 @@
+import{j as t,b as o}from"./index-BHnpy7oa.js";const s=()=>t.jsxs("div",{className:"text-center py-32",children:[t.jsx("h1",{className:"text-3xl font-semibold",children:"Laptop not found"}),t.jsx(o,{to:"/catalog",className:"btn-primary mt-6",children:"Browse catalog"})]});export{s as notFoundComponent};

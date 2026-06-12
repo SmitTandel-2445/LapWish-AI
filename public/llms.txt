@@ -1,0 +1,13 @@
+# LapWise AI
+
+> AI-powered personalized laptop recommendations and side-by-side comparison.
+
+LapWise AI helps users find the right laptop by combining a guided recommendation wizard, a filterable catalog of 40+ curated models, side-by-side comparison, and live insights into trending picks.
+
+## Pages
+
+- [Home](/): Overview of the LapWise AI product and trending laptops.
+- [Recommendation Wizard](/wizard): Answer a few questions to get a personalized laptop shortlist scored to your needs.
+- [Catalog](/catalog): Browse and filter the full laptop catalog by brand, price, RAM, and usage.
+- [Compare](/compare): Side-by-side comparison of up to three laptops with category-by-category winners.
+- [Insights](/insights): Analytics dashboard showing most-recommended laptops, popular brands, and budget trends.
